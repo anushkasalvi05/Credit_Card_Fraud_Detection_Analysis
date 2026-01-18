@@ -24,7 +24,7 @@ The dataset used for this analysis is the **Credit Card Fraud Detection Dataset*
 ## Business Insights
 The **Business Insights** document in **PDF format** is included in this repository. It contains actionable business recommendations based on the results of the analysis. The insights focus on fraud detection strategies related to **merchant-level risk**, **transaction timing**, and **spending behavior** to help optimize fraud detection systems.
 
-You can access the insights document here: [**Business Insights: Credit Card Fraud Detection**](./Business%20Insights%20%20Credit%20Card%20Fraud%20Detection.pdf).
+ou can access the insights document here: [**Business Insights: Credit Card Fraud Detection Analysis**](./Business%20Insights%3A%20Credit%20Card%20Fraud%20Detection%20Analysis.pdf).
 
 ## Requirements
 To run this notebook, you'll need Python and the following libraries installed:
